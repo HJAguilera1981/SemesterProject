@@ -12,9 +12,11 @@
  * December 6, 2025
  */
 
-public class CommuteCalculator {
+public class CommuteCalculator 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         double oneWay = 23;
         double mpg = 16;
         double gasPrice = 2.50;
@@ -25,7 +27,8 @@ public class CommuteCalculator {
         calculate("Yearly", 260, oneWay, mpg, gasPrice);
     }
 
-    public static void calculate(String label, int days, double oneWay, double mpg, double gasPrice) {
+    public static void calculate(String label, int days, double oneWay, double mpg, double gasPrice) 
+    {
         double miles = oneWay * 2 * days;
         double gallons = miles / mpg;
         double cost = gallons * gasPrice;
