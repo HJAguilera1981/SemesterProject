@@ -3,7 +3,7 @@
  * SemesterProject_Herman_Aguilera
  *
  * For my semester project I will determine how many miles I travel to and from work
- * daily, weekly, monthly, and yearly.
+ * daily, weekly, monthly, and yearly. One way is 23 miles
  * I will also determine the amount of gas used by establishing a miles-per-gallon
  * rate of 16 MPG.
  * Finally, I will calculate the cost of gas using an average price of $2.50 per gallon.
